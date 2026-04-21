@@ -56,7 +56,7 @@
 
    <br>
   
-  ![Gaspard-coder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaspard-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
    <br>
 
    ![Gaspard-coder's Stats](https://github-readme-stats.vercel.app/api?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
