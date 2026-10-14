@@ -6,7 +6,7 @@
 <br>
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gaspardvibert)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaspardvibert)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaspard.vibert@telecom-paris.fr)
 
 <br>
@@ -16,6 +16,7 @@
 **Low-level languages** \
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
@@ -53,12 +54,20 @@
 # 📊 GitHub Stats
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="Gaspard-coder's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaspard-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaspard-coder&theme=tokyonight&hide_border=true" alt="Gaspard-coder's Streak" />
+=======
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaspard-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="Gaspard-coder's Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Gaspard-coder&theme=tokyonight&hide_border=true" alt="Gaspard-coder's Streak" />
+>>>>>>> refs/remotes/origin/main
 </p>
 
 <br>
