@@ -15,6 +15,7 @@
 
 **Low-level languages** \
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=flat&logoColor=white)
@@ -40,6 +41,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FABD14?style=flat&logoColor=white)
 
+**DevOps & Containers** \
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 **TeX** \
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat&logo=typst&logoColor=white)
@@ -55,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="Gaspard-coder's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaspard-coder&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspard-coder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
