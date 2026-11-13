@@ -58,8 +58,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gaspard-readme-stats.vercel.app/api?username=Gaspard-coder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="Gaspard-coder's GitHub Stats" height="165" />
-  <img src="https://gaspard-readme-stats.vercel.app/api/top-langs?username=Gaspard-coder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+  <img src= https://github-stats-extended-5paajl5sa-gaspard-coder.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=tokyonight >
 </p>
 
 <p align="center">
