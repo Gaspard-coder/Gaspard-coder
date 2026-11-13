@@ -58,7 +58,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src= https://github-stats-extended-5paajl5sa-gaspard-coder.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=tokyonight >
+  <img src= https://github-stats-extended-one-pi.vercel.app/api/top-langs?username=Gaspard-coder&layout=compact&langs_count=6&theme=tokyonight >
 </p>
 
 <p align="center">
