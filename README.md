@@ -58,11 +58,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src= https://github-stats-extended-one-pi.vercel.app/api/top-langs?username=Gaspard-coder&layout=compact&langs_count=6&theme=tokyonight >
+  <img src= "https://github-stats-extended-one-pi.vercel.app/api/top-langs?username=Gaspard-coder&layout=compact&langs_count=6&theme=tokyonight" height = 165/>
+  <img src= "https://github-stats-extended-one-pi.vercel.app/api?username=Gaspard-coder&hide_rank=true&show_icons=true&include_all_commits=true&theme=tokyonight" height = 165>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaspard-coder&theme=tokyonight&hide_border=true" alt="Gaspard-coder's Streak" />
+  
 </p>
 
 <br>
